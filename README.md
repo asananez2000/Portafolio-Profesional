@@ -29,6 +29,8 @@ Durante mi pasantía en el Banco Santander, tuve la valiosa oportunidad de forma
 3.	<b>Optimización de Consultas SQL:</b><br> De la misma manera, tuve la oportunidad de trabajar en la optimización de una consulta “core” de SQL para el Sistema de Transacciones Internacionales de Santander. Mi enfoque en este proyecto fue mejorar el rendimiento al reducir el tiempo de ejecución del mismo, logrando un decremento del 50% a comparación de la versión original. Para lograr esto, utilicé mis conocimientos previos en bases de datos relacionales para identificar áreas de mejora, pero sobretodo mi capacidad para pensar de manera innovadora y proponer soluciones eficientes. 
 </div><br>
 
+![Santander](https://github.com/asananez2000/Portafolio-Profesional/blob/main/media/santander.png)
+
 ## Proyectos Personales 
 ### **Sistema de Administración de Archivos** 
 *Ago 2022 - Oct 2022*
@@ -47,8 +49,10 @@ El desarrollo exitoso del Sistema de Administración de Archivos para la Alcald�
 </p>
 </div><br>
 
-> **Link al Proyecto:** https://github.com/sebasgonvitec/TC2007B_Equipo3/tree/main/filesAO
+> **Link al Proyecto:** https://github.com/sebasgonvitec/TC2007B_Equipo3/tree/main/filesAO <br>
+> **Link al Video Demostrativo:** https://www.youtube.com/watch?v=tYwMd8G4iY4
 
+![Sistema Gestion Archivos](https://github.com/asananez2000/Portafolio-Profesional/blob/main/media/alcaldia.png)
 
 <br>
 
@@ -71,6 +75,7 @@ A medida que avanzamos en el desarrollo de esta aplicación, sigo motivada y com
 > **Link al Proyecto:** https://github.com/SFMBa01029956/TC3005B.501
 <br>
 
+![Swivel](https://github.com/asananez2000/Portafolio-Profesional/blob/main/media/swivel.png)
 
 ## Competencias y Reconociemientos
 ### **BID (Banco Interamericano de Desarrollo) CiberLac Challenge 2022** | Internacional 
@@ -84,4 +89,6 @@ Lo que más me enorgullece de mi desempeño en esta competencia es mi capacidad 
 Sin lugar a duda, mi participación en el BID CiberLac Challenge 2022 ha reforzado mi pasión por la ciberseguridad y ha sido una valiosa oportunidad para demostrar mi capacidad de adaptación, aprendizaje rápido y resolución de problemas. Este logro es un testimonio de mi perseverancia, dedicación y compromiso con el continuo crecimiento y desarrollo en el ámbito de la ciberseguridad y la tecnología en general.
 </p>
 </div><br>
+
+![CiberLacChallenge](https://github.com/asananez2000/Portafolio-Profesional/blob/main/media/ciberlac_challenge.png)
 
